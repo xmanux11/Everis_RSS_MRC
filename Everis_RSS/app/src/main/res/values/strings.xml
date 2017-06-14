@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Everis_RSS</string>
+    <string name="button_new_clicked">Ver en el navegador</string>
+    <string name="image_description">imagen de la noticia</string>
+</resources>
